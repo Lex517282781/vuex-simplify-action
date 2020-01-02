@@ -1,6 +1,7 @@
 {
   "name": "vuex-simplify-action",
   "version": "0.0.1",
+  "repository": "https://github.com/Lex517282781/vuex-simplify-action.git",
   "description": "simplify action for vuex",
   "main": "index.js",
   "scripts": {
