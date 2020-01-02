@@ -1,0 +1,16 @@
+{
+  "name": "vuex-simplify-action",
+  "version": "0.0.1",
+  "description": "simplify action for vuex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuex",
+    "action",
+    "vue"
+  ],
+  "author": "biansj",
+  "license": "ISC"
+}
